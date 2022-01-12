@@ -1,0 +1,67 @@
+2021-12-06 12:12:318 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2021-12-06 12:12:352 INFO  WaitHelper:24 - element is visible..
+2021-12-06 12:12:353 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2021-12-06 12:12:376 INFO  WaitHelper:24 - element is visible..
+2021-12-06 12:12:615 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2021-12-06 12:12:689 INFO  ServiceHooks:34 - Login into the application with valid credentials is Failed
+2021-12-06 12:12:223 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2021-12-06 12:12:261 INFO  WaitHelper:24 - element is visible..
+2021-12-06 12:12:262 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2021-12-06 12:12:283 INFO  WaitHelper:24 - element is visible..
+2021-12-06 12:12:504 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2021-12-06 12:12:607 INFO  ServiceHooks:34 - Login into the application with valid credentials and sign out is Failed
+2021-12-06 12:12:381 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2021-12-06 12:12:413 INFO  WaitHelper:24 - element is visible..
+2021-12-06 12:12:414 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2021-12-06 12:12:437 INFO  WaitHelper:24 - element is visible..
+2021-12-06 12:12:706 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2021-12-06 12:12:98 INFO  ServiceHooks:34 - Login into the application with invalid credentials is Failed
+2021-12-06 12:12:707 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2021-12-06 12:12:731 INFO  WaitHelper:24 - element is visible..
+2021-12-06 12:12:732 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2021-12-06 12:12:754 INFO  WaitHelper:24 - element is visible..
+2021-12-06 12:12:436 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2021-12-06 12:12:471 INFO  WaitHelper:24 - element is visible..
+2021-12-06 12:12:127 INFO  ServiceHooks:43 - Searching different products after login is pass
+2021-12-06 12:12:299 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2021-12-06 12:12:329 INFO  WaitHelper:24 - element is visible..
+2021-12-06 12:12:329 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2021-12-06 12:12:353 INFO  WaitHelper:24 - element is visible..
+2021-12-06 12:12:547 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2021-12-06 12:12:660 INFO  ServiceHooks:34 - Validate all the navigation menu in Home Page is Failed
+2021-12-06 12:12:145 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2021-12-06 12:12:177 INFO  WaitHelper:24 - element is visible..
+2021-12-06 12:12:177 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2021-12-06 12:12:206 INFO  WaitHelper:24 - element is visible..
+2021-12-06 12:12:453 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2021-12-06 12:12:681 INFO  ServiceHooks:34 - Validate User able to add a product in cart is Failed
+2021-12-06 12:12:642 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2021-12-06 12:12:676 INFO  WaitHelper:24 - element is visible..
+2021-12-06 12:12:676 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2021-12-06 12:12:698 INFO  WaitHelper:24 - element is visible..
+2021-12-06 12:12:904 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2021-12-06 12:12:70 INFO  ServiceHooks:34 - Validate all the menu in My Account page is Failed
+2021-12-06 12:12:692 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2021-12-06 12:12:725 INFO  WaitHelper:24 - element is visible..
+2021-12-06 12:12:726 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2021-12-06 12:12:746 INFO  WaitHelper:24 - element is visible..
+2021-12-06 12:12:720 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2021-12-06 12:12:748 INFO  WaitHelper:24 - element is visible..
+2021-12-06 12:12:758 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2021-12-06 12:12:789 INFO  WaitHelper:24 - element is visible..
+2021-12-06 12:12:810 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2021-12-06 12:12:830 INFO  WaitHelper:24 - element is visible..
+2021-12-06 12:12:204 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2021-12-06 12:12:240 INFO  WaitHelper:24 - element is visible..
+2021-12-06 12:12:262 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2021-12-06 12:12:303 INFO  WaitHelper:24 - element is visible..
+2021-12-06 12:12:863 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2021-12-06 12:12:894 INFO  WaitHelper:24 - element is visible..
+2021-12-06 12:12:917 INFO  ServiceHooks:43 - validate all the tabs are clickable is pass
+2021-12-06 12:12:406 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2021-12-06 12:12:431 INFO  WaitHelper:24 - element is visible..
+2021-12-06 12:12:431 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2021-12-06 12:12:458 INFO  WaitHelper:24 - element is visible..
+2021-12-06 12:12:790 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2021-12-06 12:12:830 INFO  WaitHelper:24 - element is visible..
+2021-12-06 12:12:848 INFO  ServiceHooks:43 - Validate correct email-id while creating new user is pass
